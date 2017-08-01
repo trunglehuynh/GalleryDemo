@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SamsungCodingChallenge</string>
+    <string name="ImageDetailArray">ImageDetailArray</string>
+    <string name="ImageDetailName">ImageDetailName</string>
+</resources>
